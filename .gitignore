@@ -1,0 +1,9 @@
+__pycache__
+outputs/
+.python_version
+accounts.db
+accounts.txt
+*.mp4
+data.txt
+readme.md
+x_api_keys.py
